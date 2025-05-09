@@ -1,55 +1,55 @@
 @font-face {
     font-family: 'actobook';
-    src: url('../fonts/acto-book-webfont.woff2') format('woff2'),
-         url('../fonts/acto-book-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/acto-book-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/acto-book-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'actobold';
-    src: url('../fonts/acto-bold-webfont.woff2') format('woff2'),
-         url('../fonts/acto-bold-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/acto-bold-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/acto-bold-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'actoblack';
-    src: url('../fonts/acto-black-webfont.woff2') format('woff2'),
-         url('../fonts/acto-black-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/acto-black-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/acto-black-webfont.woff') format('woff');
 }
 
 @font-face {
     font-family: 'romana_beckerregular';
-    src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/romana_becker_regular-webfont.woff2') format('woff2'),
-         url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/romana_becker_regular-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/romana_becker_regular-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/romana_becker_regular-webfont.woff') format('woff');
 }
 @font-face {
     font-family: 'romana_becker_demiregular';
-    src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/romana_becker_demi_regular-webfont.woff2') format('woff2'),
-         url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/romana_becker_demi_regular-webfont.woff') format('woff');
+    src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/romana_becker_demi_regular-webfont.woff2') format('woff2'),
+         url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/romana_becker_demi_regular-webfont.woff') format('woff');
 }
 @font-face {
 	font-family: "GuardianEgyp-Light";
-	src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianEgyp-Light.woff') format('woff'),
-		 url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianEgyp-Light.woff2') format('woff2');
+	src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianEgyp-Light.woff') format('woff'),
+		 url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianEgyp-Light.woff2') format('woff2');
 }
 @font-face {
 	font-family: "GuardianEgyp-Regular";
-	src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianEgyp-Regular.woff') format('woff'),
-		 url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianEgyp-Regular.woff2') format('woff2');
+	src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianEgyp-Regular.woff') format('woff'),
+		 url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianEgyp-Regular.woff2') format('woff2');
 }
 @font-face {
 	font-family: "GuardianEgyp-Medium";
-	src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianEgyp-Medium.woff') format('woff'),
-	     url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianEgyp-Medium.woff2') format('woff2');
+	src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianEgyp-Medium.woff') format('woff'),
+	     url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianEgyp-Medium.woff2') format('woff2');
 }
 @font-face {
 	font-family: "GuardianTextEgypt-Bold";
-	src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianTextEgypt-Bold.woff') format('woff'),
-		 url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianTextEgypt-Bold.woff2') format('woff2');
+	src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianTextEgypt-Bold.woff') format('woff'),
+		 url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianTextEgypt-Bold.woff2') format('woff2');
 }
 @font-face {
 	font-family: "GuardianTextEgypt-Black";
-	src: url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianTextEgypt-Black.woff') format('woff'),
-		 url('https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/fonts/GuardianTextEgypt-Black.woff2') format('woff2');
+	src: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianTextEgypt-Black.woff') format('woff'),
+		 url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/fonts/GuardianTextEgypt-Black.woff2') format('woff2');
 }
 
 /* HTML5 shiv */
@@ -6130,7 +6130,7 @@ section:not(.feed_main_section) .game_text{
 }
 .return_free_text_button_inner
 {
-    background:url("/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/img/arrow_right_white.png") no-repeat;
+    background:url("https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/arrow_right_white.png") no-repeat;
     width:7px;
     height:8px;
     position:absolute;
@@ -6640,7 +6640,7 @@ section:not(.feed_main_section) .game_text{
         }
 
             a.logo-comercio {
-                background: url('../img/logo.png') no-repeat 0 0;
+                background: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/logo.png') no-repeat 0 0;
                 background-size: 100%;
                 height: 24px;
                 width: 154px;
@@ -6670,15 +6670,15 @@ section:not(.feed_main_section) .game_text{
             }
 
             #social ul li a.facebook {
-                background: url('../img/redes.png') no-repeat -17px -9px;
+                background: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/redes.png') no-repeat -17px -9px;
             }
 
             #social ul li a.tw {
-                background: url('../img/redes.png') no-repeat -56px -9px;
+                background: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/redes.png') no-repeat -56px -9px;
             }
 
             #social ul li a.gp {
-                background: url('../img/redes.png') no-repeat -96px -9px;
+                background: url('https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/redes.png') no-repeat -96px -9px;
             }
 
             #social ul li:hover {
@@ -6735,7 +6735,7 @@ img.separador{
     text-align: center;
 }
 .bg-footer{
-    background: url(../img/bg-footer.jpg) no-repeat center 0;
+    background: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/bg-footer.jpg) no-repeat center 0;
     min-height: 200px;
 }
 
@@ -6760,7 +6760,7 @@ img.separador{
         }
 
     .bg-footer{
-        background: url(../img/bg-footer.jpg) no-repeat center bottom;
+        background: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/bg-footer.jpg) no-repeat center bottom;
         min-height: 220px;
         width: 100%;
     }
@@ -6796,7 +6796,7 @@ img.separador{
     to { background-position: -3630px; }
 }
 .calculating_partial_loading .loading-icon{
-    background: transparent url("img/download.gif") no-repeat 0 0;
+    background: transparent url("https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/download.gif") no-repeat 0 0;
     width: 33px;
     height: 44px;
     animation: play_p_calculate_loop 4s steps(110) infinite;
@@ -6815,7 +6815,7 @@ img.separador{
                             to { background-position: -3630px; }
                         }
                         .calculating_partial_loading .loading-icon{
-                            background: transparent url("img/download.gif") no-repeat 0 0;
+                            background: transparent url("https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/download.gif") no-repeat 0 0;
                             width: 33px;
                             height: 44px;
                             animation: play_p_calculate_loop 4s steps(110) infinite;
@@ -6852,7 +6852,7 @@ img.separador{
                 text-indent: -9999px;
             }
                 a.logo-comercio{
-                    background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/img/logo-comercio.png) no-repeat 0 0;
+                    background: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/logo-comercio.png) no-repeat 0 0;
                     background-size: 100%;
 					height: 19px;
 					margin: 10px;
@@ -6879,7 +6879,7 @@ img.separador{
                             }
 						        #fb{
 						            background-size: 100%;
-						            background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/img/fb-icon.png) no-repeat 0 0;
+						            background: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/fb-icon.png) no-repeat 0 0;
 						            border: none;
 						            display: inline-block;
 						            height: 36px;
@@ -6889,7 +6889,7 @@ img.separador{
 
 						        #wst{
 						            background-size: 100%;
-						            background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/img/wst-icon.png) no-repeat 0 0;
+						            background: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/wst-icon.png) no-repeat 0 0;
 						            border: none;
 						            display: none;
 						            height: 36px;
@@ -6899,7 +6899,7 @@ img.separador{
 
 						        #tw{
 						            background-size: 100%;
-						            background: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/img/tw-icon.png) no-repeat 0 0;
+						            background: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/img/tw-icon.png) no-repeat 0 0;
 						            border: none;
 						            display: inline-block;
 						            height: 36px;
@@ -6911,7 +6911,7 @@ img.separador{
 					}
 
 .box_kill_bill{
-    background-image: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/kill-bill.jpg?v3);
+    background-image: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/kill-bill.jpg?v3);
     background-repeat: no-repeat;
     background-position: center top;    
     height: auto;
@@ -6919,7 +6919,7 @@ img.separador{
     width: 100%;    
 }
 .box_harley{
-    background-image: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/harley-quinn.jpg?v3);
+    background-image: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/harley-quinn.jpg?v3);
     background-repeat: no-repeat;
     background-position: center top;    
     height: auto;
@@ -6927,7 +6927,7 @@ img.separador{
     width: 100%;
 }
 .box_lisa{
-    background-image: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/lisa-simpson.jpg?v3);
+    background-image: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/lisa-simpson.jpg?v3);
     background-repeat: no-repeat;
     background-position: center top;    
     height: auto;
@@ -6935,7 +6935,7 @@ img.separador{
     width: 100%;
 }
 .box_merida{
-    background-image: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/merida.jpg?v3);
+    background-image: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/merida.jpg?v3);
     background-repeat: no-repeat;
     background-position: center top;    
     height: auto;
@@ -6943,7 +6943,7 @@ img.separador{
     width: 100%;
 }
 .box_woods{
-    background-image: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/woods.jpg?v3);
+    background-image: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/woods.jpg?v3);
     background-repeat: no-repeat;
     background-position: center top;    
     height: auto;
@@ -6951,7 +6951,7 @@ img.separador{
     width: 100%;
 }
 .box_mamma{
-    background-image: url(https://d1ts5g4ys243sh.cloudfront.net/proyectos_especiales_prod/especiales/dia-de-la-madre-trivia-nndd-ecvisual-ecpm/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/mamma.jpg?v3);
+    background-image: url(https://nuevasnarrativasec.github.io/trivia-dia-de-la-madre-2025/b516b5b7-3804-4aec-8426-a9ff0e31a32d/img/mamma.jpg?v3);
     background-repeat: no-repeat;
     background-position: center top;    
     height: auto;
